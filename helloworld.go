@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	fmt.Println("hello world from laksh2 branch")
+	fmt.Println("hello world from main branch")
 
 }
