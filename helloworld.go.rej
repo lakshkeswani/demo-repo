@@ -1,0 +1,9 @@
+diff a/helloworld.go b/helloworld.go	(rejected hunks)
+@@ -5,7 +5,6 @@
+ )
+ 
+ func main() {
+-	fmt.Println("hello world laksh is here")
+ 	fmt.Println("hello world laksh2 is here")
+ 	fmt.Println("edited for source tre")
+ }
